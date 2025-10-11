@@ -29,5 +29,8 @@ Các báo cáo này hỗ trợ nhà quản lý **ra quyết định dựa trên 
 Dự án được phát hành theo giấy phép [MIT License](LICENSE).
 
 ## About Me
-Xin chào! Mình là **Đặng Tịnh Kim Nguyên**, một người yêu thích **Data Engineering** và **Data Analytics**.  
-Mục tiêu của mình là xây dựng các giải pháp dữ liệu hiện đại giúp doanh nghiệp ra quyết định chính xác hơn.  
+## 👩‍💻 About Me  
+
+Mình là **Đặng Tịnh Kim Nguyên**, sinh viên thực hiện dự án này như một phần của môn học về **Cơ sở dữ liệu và Phân tích dữ liệu**.  
+Mục tiêu của mình là vận dụng các kiến thức về **SQL, ETL, và BI Tools** để xây dựng một hệ thống kho dữ liệu hoàn chỉnh,  
+giúp rèn luyện kỹ năng xử lý và trực quan hóa dữ liệu.  
