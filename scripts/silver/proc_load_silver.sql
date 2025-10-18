@@ -56,7 +56,7 @@ BEGIN
 				ELSE 'N/A'
 			END cst_material_status,
 
-			CASE WHEN UPPER(TRIM(cst_gndr)) = 'F' THEN 'Famale'
+			CASE WHEN UPPER(TRIM(cst_gndr)) = 'F' THEN 'Female'
 				WHEN UPPER(TRIM(cst_gndr)) = 'M' THEN 'Male'
 				ELSE 'N/A'
 			END cst_gndr,
