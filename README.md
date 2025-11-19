@@ -14,7 +14,7 @@ Mục tiêu là tạo hệ thống lưu trữ, xử lý và phân tích dữ li�
 
 ---
 
-## PHÂN TÍCH & BÁO CÁO BI
+## PHÂN TÍCH & BÁO CÁO
 **Mục tiêu:**  
 Sử dụng SQL để xây dựng các truy vấn và báo cáo giúp phân tích những chỉ số kinh doanh chính, bao gồm:  
 - **Hành vi khách hàng**  
@@ -30,5 +30,5 @@ Dự án được phát hành theo giấy phép [MIT License](LICENSE).
 
 ## About Me
 Mình là **Đặng Tịnh Kim Nguyên**, sinh viên thực hiện dự án này như một phần của môn học về **Cơ sở dữ liệu và Phân tích dữ liệu**.  
-Mục tiêu của mình là vận dụng các kiến thức về **SQL, ETL, và BI Tools** để xây dựng một hệ thống kho dữ liệu hoàn chỉnh,  
-giúp rèn luyện kỹ năng xử lý và trực quan hóa dữ liệu.  
+Mục tiêu của mình là vận dụng các kiến thức về **SQL, ETL** để xây dựng một hệ thống kho dữ liệu hoàn chỉnh,  
+giúp rèn luyện kỹ năng xử lý dữ liệu.  
